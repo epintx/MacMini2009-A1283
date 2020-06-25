@@ -16,7 +16,7 @@ mac mini 2009 a1283 的硬件和系统升级。硬件包括内存、固态、光
 3. 内存条4g * 2 1333Mhz 笔记本mini-so型号内存（俩条140元二手）
 4. 固态硬盘 120G （100元二手）
 5. 机器cpu 2.26Ghz （300元二手），2.0Ghz（270元二手）
-6. minidp 转 hdmi （10元），minidp转 vga线 （12元）
+6. minidp 转 hdmi （10元），minidp转 vga线 （10元）
 
 大概花费在（23+10+140+100+270+22） 600 左右 升级到 8g内存 120G固态硬盘，然后多出些零件
 
@@ -68,8 +68,8 @@ macnini2009 年初 可以不刷rom 直接安装
 ### 2. 固态硬盘120g （100元）
 ### 3. minidp 转 vga 或 minidp 转 hdmi
 ### 4. 成品 macmini A1283 2.0Ghz cpu（含电源） + 8g 内存 + 120G 固态 + 俩转接头（639元）
-
-淘宝链接:
-https://item.taobao.com/item.htm?id=621757102970
+![](img/WechatIMG60.png)
+淘宝链接:https://shop65237734.taobao.com/?spm=a230r.7195193.1997079397.2.698f445cHzncrK
+[店名: itmini](https://shop65237734.taobao.com/?spm=a230r.7195193.1997079397.2.698f445cHzncrK)
 手机淘宝扫描:
 ![二维码](https://img.alicdn.com/imgextra/O1CN01kbcGyv1rOvI1TWgc8_!!6000000005622-2-xcode.png)
