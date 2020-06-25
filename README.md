@@ -25,7 +25,22 @@ mac mini 2009 a1283 的硬件和系统升级。硬件包括内存、固态、光
 * 升级固态硬盘视频
 https://www.bilibili.com/video/BV11E411r7eJ?from=search&seid=4399736137118874033
 
-<iframe src="//player.bilibili.com/player.html?aid=71624902&bvid=BV11E411r7eJ&cid=124119462&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+<iframe
+    height=450
+    width=800
+    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA=="
+    frameborder=0
+    allowfullscreen>
+</iframe>
+
+
+<iframe
+src="//player.bilibili.com/player.html?aid=71624902&bvid=BV11E411r7eJ&cid=124119462&page=1"
+ scrolling="no"
+ border="0"
+ frameborder="no"
+ framespacing="0"
+ allowfullscreen="true">
 </iframe>
 
 * 升级内存视频
