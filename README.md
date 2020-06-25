@@ -33,9 +33,6 @@ mac mini 2009 a1283 的硬件和系统升级。硬件包括内存、固态、光
 国外大神提供了升级10.14 的教程参考
 http://dosdude1.com/mojave/
 
-<iframe height="400" width="600" src="//player.bilibili.com/player.html?aid=49775093&cid=87150521&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
-</iframe>
-
 b站视频，视频教您使用上面教程
 https://b23.tv/Fb2UrB
 
