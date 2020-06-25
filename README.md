@@ -64,9 +64,12 @@ macnini2009 年初 可以不刷rom 直接安装
 
 ## 四、提供零部件和成品出售
 
-8g 内存 + 120G 固态 + 2.0Ghz cpu
+### 1. 内存条4g（65元）
+### 2. 固态硬盘120g （100元）
+### 3. minidp 转 vga 或 minidp 转 hdmi
+### 4. 成品 macmini A1283 2.0Ghz cpu（含电源） + 8g 内存 + 120G 固态 + 俩转接头（639元）
 
 淘宝链接:
 https://item.taobao.com/item.htm?id=621757102970
 手机淘宝扫描:
-![](https://img.alicdn.com/imgextra/O1CN01kbcGyv1rOvI1TWgc8_!!6000000005622-2-xcode.png)
+![二维码](https://img.alicdn.com/imgextra/O1CN01kbcGyv1rOvI1TWgc8_!!6000000005622-2-xcode.png)
