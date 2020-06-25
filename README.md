@@ -28,7 +28,6 @@ https://www.bilibili.com/video/BV11E411r7eJ?from=search&seid=4399736137118874033
 * 升级内存视频
 https://www.bilibili.com/video/BV1fE411r7ny?from=search&seid=4399736137118874033
 
-
 ## 二、系统升级
 ### 为什么要升级到10.14
 1. 办公软件wps 还有其他的必要的软件最新版本仅支持 10.13以上的系统，10.14能兼容大部分软件。
@@ -63,4 +62,11 @@ macnini2009 年初 可以不刷rom 直接安装
 ## 三、光驱更换为第二块硬盘                                         
 待续
 
-## 四、广告下自己咸鱼号
+## 四、提供零部件和成品出售
+
+8g 内存 + 120G 固态 + 2.0Ghz cpu
+
+淘宝链接:
+https://item.taobao.com/item.htm?id=621757102970
+手机淘宝扫描:
+![](https://img.alicdn.com/imgextra/O1CN01kbcGyv1rOvI1TWgc8_!!6000000005622-2-xcode.png)
